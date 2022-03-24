@@ -1,1 +1,1 @@
-export const publicPath = '/wilfredoprotfolio.github.io/';
+export const publicPath = '/wilfredomadelo.github.io/wilfredoprotfolio.github.io/';
