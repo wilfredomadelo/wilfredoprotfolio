@@ -1,0 +1,1 @@
+export const publicPath = '/wilfredomadelo.github.io/wilfredoprotfolio.github.io/';
